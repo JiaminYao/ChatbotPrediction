@@ -1,0 +1,4 @@
+Model,C,Accuracy,F1-Score,Log-Loss,Time
+LogReg,1,0.4214,0.4192,1.1287,9.66
+LogReg,2,0.4127,0.4112,1.2155,11.52
+LogReg,3,0.4072,0.4058,1.2896,14.16

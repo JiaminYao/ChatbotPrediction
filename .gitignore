@@ -1,0 +1,45 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Large models
+*.keras
+*.h5
+*.pt
+*.bin
+
+# Model folders
+models/
+models_cnn_dual0/
+models_cnn_dual1/
+models_cnn_dual2/
+models_cnn_dual3/
+models_cnn_dual4/
+models_cnn_dual5/
+models_cnn_dual0_skip/
+models_cnn_dual1_skip/
+models_cnn_dual2_skip/
+models_cnn_dual3_skip/
+models_cnn_dual4_skip/
+models_cnn_dual5_skip/
+models_cnn_dual0_skip_drop/
+models_cnn_dual1_skip_drop/
+models_cnn_dual2_skip_drop/
+models_cnn_dual3_skip_drop/
+models_cnn_dual4_skip_drop/
+models_cnn_dual5_skip_drop/
+runs/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+.vscode/
+*.keras
+*.safetensors
+models/
+runs/
+data/
+methods/
+.__pycache__/
+iframe_figures/

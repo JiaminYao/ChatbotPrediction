@@ -1,0 +1,27 @@
+# Core model + PEFT stack
+torch==2.6.0+cu124
+transformers==4.57.1
+accelerate==1.11.0
+bitsandbytes==0.48.1
+peft==0.17.1
+datasets==4.3.0
+huggingface-hub==0.36.0
+safetensors==0.6.2
+lightgbm==4.5.0
+plotly==5.24.1
+
+# Data + analysis
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.7.2
+matplotlib==3.10.7
+seaborn==0.13.2
+tqdm==4.67.1
+pyarrow==21.0.0
+kaleido==0.2.1
+nbformat>=4.2.0
+wordcloud==1.9.4
+
+# Optional (Jupyter & logs)
+ipykernel==7.0.1
+tensorboard==2.15.2

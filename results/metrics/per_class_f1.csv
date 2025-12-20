@@ -1,0 +1,8 @@
+Model,winner_model_a,winner_model_b,winner_tie
+LogReg,0.45,0.43,0.38
+LightGBM,0.5,0.49,0.39
+MLP,0.46,0.46,0.32
+CNN,0.5,0.51,0.38
+RoBERT,0.51,0.43,0.42
+DeBERT_L,0.53,0.48,0.44
+Gemma2B,0.54,0.52,0.41

@@ -92,10 +92,9 @@ These metrics provide both **performance** and **calibration** insights, essenti
 - **Libraries & Frameworks:**
   - NumPy, Pandas
   - Scikit-learn
-  - LightGBM
   - PyTorch
-  - Hugging Face Transformers
   - Matplotlib / Seaborn
+  - Hugging Face Transformers
 
 
 ## 🎯 Conclusion
